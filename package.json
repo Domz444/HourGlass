@@ -84,7 +84,7 @@
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",
     "react-bootstrap-date-picker-react16": "^4.0.2",
-    "react-dev-utils": "^5.0.1",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.4.1",
     "react-flexbox-grid": "^2.1.2",
     "react-grid-system": "^4.1.4",
